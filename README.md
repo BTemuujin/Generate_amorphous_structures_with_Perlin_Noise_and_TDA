@@ -1,4 +1,4 @@
-# Amorphous Structure Generation via TDA-Optimized Perlin Noise by Temuujin Bayaraa
+# Amorphous Structure Generation via TDA-Optimized Perlin Noise
 
 This project provides a novel method for generating realistic amorphous (glassy) atomic structures by perturbing crystalline precursors using Perlin and Simplex noise.
 
