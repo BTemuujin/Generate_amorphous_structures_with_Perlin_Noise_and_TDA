@@ -1,0 +1,10 @@
+seed: 690
+scale: 3.439505489541646
+amplitude: 0.07970103874759872
+octaves: 4
+persistence: 0.3253868137287896
+lacunarity: 2.3980945672399834
+noise_type: simplex
+total_distance: 6.089929772579152
+distance_dim1: 3.6972498954619955
+distance_dim2: 2.3926798771171565
